@@ -1,0 +1,10 @@
+link www.google.com
+link www.yahoo.com
+link www.youtube.com
+link www.wikipedia.com
+back
+forward
+forward
+forward
+forward
+forward
