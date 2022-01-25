@@ -1,0 +1,8 @@
+My observation---
+
+When I look at the graph RUN-1, I notice that the runtime decreases when recursion limit increases from 2.
+And after it goes down to a point, the trend becomes flat(almost, not exactly). For the idea of how recursion limit affects the runtime.
+the graph should look like a check(goes down first then goes up). But in the real life, CPU would do a lot of work at the same time,
+and that would affect the runtime as well. So the reason the fluctuations occur can be watching videos, playing games and etc while
+running the program. So the most accurate way to measure the trends is to minimize the work that CPU is working on. Or just stay the same,
+try not to open up a new app or even close one.
